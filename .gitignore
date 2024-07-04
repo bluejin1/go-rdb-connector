@@ -1,0 +1,29 @@
+### VisualStudioCode ###
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+### Goland ###
+.idea/*
+.git
+
+### Go ###
+*.exe
+*.exe~
+
+### Etc ###
+debug
+vendor
+*.log
+*.test
+*.out
+/docs
+
+### custom ###
+test
+test/*
+logs/*
+/res
+/res.exe
